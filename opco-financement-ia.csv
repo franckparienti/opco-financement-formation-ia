@@ -1,0 +1,12 @@
+opco_sigle,opco_nom,branches_principales,dispositif_formation_ia,plafond_indicatif_euros,eligibilite,url_demande
+ATLAS,ATLAS,"Services financiers, conseil, numerique",Plan de developpement des competences,5000,PME < 50 salaries,https://www.opco-atlas.fr
+AFDAS,AFDAS,"Culture, medias, communication, sport",Actions collectives IA,3500,TPE/PME,https://www.afdas.com
+AKTO,AKTO,"Services a forte intensite de main d'oeuvre",Pro-A reconversion IA,9000,CDI en reconversion,https://www.akto.fr
+Constructys,Constructys,"BTP, construction",Plan TPE/PME,2500,Entreprises < 50 salaries,https://www.constructys.fr
+OCAPIAT,OCAPIAT,"Agriculture, agroalimentaire, peche",Diagnostic IA + formation,4000,TPE/PME,https://www.ocapiat.fr
+OPCO2i,OPCO 2i,"Industrie, metallurgie, chimie",Parcours IA industrielle,8000,PME/ETI industrielles,https://www.opco2i.fr
+OPCO Commerce,OPCO Commerce,"Commerce, grande distribution",Transition numerique,3000,Commerce < 250 salaries,https://www.lopcommerce.com
+OPCO EP,OPCO EP,"Entreprises de proximite, artisanat",Mallette du dirigeant IA,1500,TPE < 11 salaries,https://www.opcoep.fr
+OPCO Mobilites,OPCO Mobilites,"Transport, logistique, automobile",Formation IA logistique,5000,PME transport,https://www.opcomobilites.fr
+OPCO Sante,OPCO Sante,"Sante, medico-social",IA et parcours de soins,6000,Etablissements sante,https://www.opco-sante.fr
+Uniformation,Uniformation,"ESS, habitat social, sport",Transition numerique ESS,3500,Structures ESS,https://www.uniformation.fr
